@@ -5627,10 +5627,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/webextension-polyfill@npm:^0.10.7":
-  version: 0.10.7
-  resolution: "@types/webextension-polyfill@npm:0.10.7"
-  checksum: 10c0/78f9153398172b66db74e02202146e078b9c8fe30a283f52e7ab58021fdb4d18be74555142ec83b878f9d05d98a0296ffbef8287aedd411d9503025fe8ddba36
+"@types/webextension-polyfill@npm:^0.12.3":
+  version: 0.12.3
+  resolution: "@types/webextension-polyfill@npm:0.12.3"
+  checksum: 10c0/0f0cea5ab70a3958f7eca61168b8b431288c35ee7e8f052f5b3bf6a6aa101183aa760addd4dcf408027d558731aa8a8f107e47a373bb7c347cb7cba807fe46e6
   languageName: node
   linkType: hard
 
@@ -16481,7 +16481,7 @@ __metadata:
     "@types/react": "npm:^18.3.18"
     "@types/react-dom": "npm:^18.3.5"
     "@types/react-router-dom": "npm:^5.3.3"
-    "@types/webextension-polyfill": "npm:^0.10.7"
+    "@types/webextension-polyfill": "npm:^0.12.3"
     "@typescript-eslint/eslint-plugin": "npm:^7.18.0"
     "@typescript-eslint/parser": "npm:^7.18.0"
     babel-core: "npm:^6.26.3"
