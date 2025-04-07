@@ -45,7 +45,7 @@
     "version": "BEFORE=$(jq --raw-output .version src/static/manifest.json) && AFTER=$(date +%Y.%-m.%-d) && grep --files-with-matches --recursive $BEFORE src | xargs sed --in-place \"s/$BEFORE/$AFTER/g\" && git checkout -b version-bump && git commit --all --message=\"Version $AFTER\""
   },
   "dependencies": {
-    "@kiltprotocol/sdk-js": "^0.36.0-rc.1",
+    "@kiltprotocol/sdk-js": "^0.36.0-rc.3",
     "@polkadot/extension-inject": "^0.58.7",
     "@polkadot/keyring": "^12.6.2",
     "@polkadot/types": "^11.1.1",
@@ -132,7 +132,7 @@
   },
   "packageManager": "yarn@4.7.0",
   "resolutions": {
-    "@kiltprotocol/type-definitions": "1.11502.0-rc.1",
-    "@kiltprotocol/augment-api": "1.11502.0-peregrine-rc.1"
+    "@kiltprotocol/type-definitions": "1.11502.0",
+    "@kiltprotocol/augment-api": "1.11502.0-peregrine-rc.2"
   }
 }
