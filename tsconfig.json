@@ -2,7 +2,7 @@
   "compilerOptions": {
     "target": "ES2019",
     "module": "ESNext",
-    "moduleResolution": "node",
+    "moduleResolution": "bundler",
     "resolveJsonModule": true,
     "rootDir": "./src",
     "typeRoots": ["./node_modules/@types", "./src/@types"],
