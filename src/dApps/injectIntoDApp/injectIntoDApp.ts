@@ -10,7 +10,6 @@ export function injectIntoDApp(version: string): void {
     version,
   };
 
-  // @ts-expect-error FIXME: different versions of @polkadot/types used by our code and by @polkadot/extension-inject
   injectExtension(async (unsafeDAppName: string) => {
     const dAppName = unsafeDAppName.substring(0, 50);
     await injectedAccessChannel.get({ dAppName });
