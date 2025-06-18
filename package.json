@@ -54,7 +54,7 @@
     "@polkadot/util-crypto": "^13.5.1",
     "@polkadot/x-textdecoder": "^13.5.1",
     "@polkadot/x-textencoder": "^13.5.1",
-    "bn.js": "^5.2.1",
+    "bn.js": "^5.2.2",
     "classnames": "^2.5.1",
     "ky": "^1.7.5",
     "lodash-es": "^4.17.21",
