@@ -16271,7 +16271,7 @@ __metadata:
     storybook: "npm:^7.6.20"
     style-loader: "npm:^4.0.0"
     stylelint: "npm:^16.21.0"
-    stylelint-config-css-modules: "npm:^4.5.0"
+    stylelint-config-css-modules: "npm:^4.5.1"
     stylelint-config-standard: "npm:^36.0.1"
     swr: "npm:^2.3.3"
     ts-jest: "npm:^29.4.0"
@@ -16703,9 +16703,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"stylelint-config-css-modules@npm:^4.5.0":
-  version: 4.5.0
-  resolution: "stylelint-config-css-modules@npm:4.5.0"
+"stylelint-config-css-modules@npm:^4.5.1":
+  version: 4.5.1
+  resolution: "stylelint-config-css-modules@npm:4.5.1"
   dependencies:
     stylelint-scss: "npm:^6.12.1"
   peerDependencies:
@@ -16713,7 +16713,7 @@ __metadata:
   dependenciesMeta:
     stylelint-scss:
       optional: true
-  checksum: 10c0/3954b18458771d2ad143ab406e7bd09e4d9c42880c1b5bf24907a3db4dae997114049f5d7064d69bd8e11ed42489c9c0d02564efce2e71fb5ba3f94b99af550f
+  checksum: 10c0/49e5e002d8ba9f8baa546ad7c03c0ae44b275fe59928d467f3b5d7292c464c0645c2e657242c170a75b2f1d3ebf6e5705be4ebdfc89a3b4eab642dfbd2b7841c
   languageName: node
   linkType: hard
 
