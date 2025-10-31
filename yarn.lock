@@ -16257,7 +16257,7 @@ __metadata:
     stylelint: "npm:^16.23.0"
     stylelint-config-css-modules: "npm:^4.5.1"
     stylelint-config-standard: "npm:^36.0.1"
-    swr: "npm:^2.3.4"
+    swr: "npm:^2.3.6"
     ts-jest: "npm:^29.4.5"
     ts-loader: "npm:^9.5.4"
     typed-css-modules: "npm:^0.9.1"
@@ -16861,15 +16861,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"swr@npm:^2.3.4":
-  version: 2.3.4
-  resolution: "swr@npm:2.3.4"
+"swr@npm:^2.3.6":
+  version: 2.3.6
+  resolution: "swr@npm:2.3.6"
   dependencies:
     dequal: "npm:^2.0.3"
     use-sync-external-store: "npm:^1.4.0"
   peerDependencies:
     react: ^16.11.0 || ^17.0.0 || ^18.0.0 || ^19.0.0
-  checksum: 10c0/c5cf536c2652fc6b64d64d3ce232f8bbe25dcaffc688f852fb81cf06e28b59280ebebde752429d9801c3af8e7a956ee7242376a6386a599cedc0000b862a712d
+  checksum: 10c0/9534f350982e36a3ae0a13da8c0f7da7011fc979e77f306e60c4e5db0f9b84f17172c44f973441ba56bb684b69b0d9838ab40011a6b6b3e32d0cd7f3d5405f99
   languageName: node
   linkType: hard
 
