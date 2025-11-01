@@ -7,7 +7,7 @@ jobs:
       VARIANT: public
     steps:
       - name: Checkout the code
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Configure Node and package manager
         uses: actions/setup-node@v4
