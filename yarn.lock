@@ -12658,10 +12658,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ky@npm:^1.2.0, ky@npm:^1.8.2":
-  version: 1.8.2
-  resolution: "ky@npm:1.8.2"
-  checksum: 10c0/81edb33f4397b4a23a085ab0c54c0efd7baad0c8eeaabbbec4e7147202627a20d80114595d03647fc1ae465d682de30e2e04805e6888e5650e5a93684cf86e93
+"ky@npm:^1.13.0, ky@npm:^1.2.0":
+  version: 1.13.0
+  resolution: "ky@npm:1.13.0"
+  checksum: 10c0/e4c34899dd05826ca30854a047c734298492da9e3023775d74c9801d5ba1294a1a72be81b31221d4f7a4ab0738288ebe2e5177eb9925babf0d0466c90897f657
   languageName: node
   linkType: hard
 
@@ -16235,7 +16235,7 @@ __metadata:
     eslint-plugin-storybook: "npm:^0.12.0"
     jest: "npm:^29.7.0"
     jest-environment-jsdom: "npm:^29.7.0"
-    ky: "npm:^1.8.2"
+    ky: "npm:^1.13.0"
     lodash-es: "npm:^4.17.21"
     mini-css-extract-plugin: "npm:^2.9.4"
     prettier: "npm:^3.6.2"
