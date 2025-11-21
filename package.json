@@ -130,7 +130,7 @@
     "webpack-extension-reloader": "^1.1.4",
     "webpack-merge": "^6.0.1"
   },
-  "packageManager": "yarn@4.10.3",
+  "packageManager": "yarn@4.11.0",
   "resolutions": {
     "@kiltprotocol/augment-api": "1.11502.0-peregrine"
   }
