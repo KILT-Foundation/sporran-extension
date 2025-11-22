@@ -56,7 +56,7 @@
     "@polkadot/x-textencoder": "^13.5.1",
     "bn.js": "^5.2.2",
     "classnames": "^2.5.1",
-    "ky": "^1.13.0",
+    "ky": "^1.14.0",
     "lodash-es": "^4.17.21",
     "qrcode.react": "^3.2.0",
     "react": "^18.3.1",
